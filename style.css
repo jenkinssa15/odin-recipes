@@ -1,0 +1,12 @@
+.home {
+    list-style-position: inside;
+    text-align: center;
+}
+  
+body {
+    height: 100%;
+    overflow: auto;
+    background-color: #34e7ff;
+    font-family: 'Times New Roman', sans-serif;
+    color: rgb(0, 0, 0);
+  }
